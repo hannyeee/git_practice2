@@ -18,5 +18,3 @@ if __name__ == '__main__':
 
 # 2026/10/16 오후 16:12
 # rjsskdekdkskdkasklsdklwklm
-
-
